@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp; I am a Full Stack developer focused on the frontend and I am currently looking for a job as a Frontend Developer.\
+👨‍💻 &nbsp;I am a Full Stack developer focused on the frontend and I am currently looking for a job as a Frontend Developer.\
 💡 &nbsp;   I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am currently studying systems engineering at UTEL university\
 🌱 &nbsp;I'm on my way to learning more about artificial intelligence and python.\
