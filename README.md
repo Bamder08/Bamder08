@@ -70,8 +70,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mateo-mart%C3%ADnez-92205b336/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mateo8mh@gmail.com"><img src="https://img.shields.io/badge/-MateoMartinez-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mateo-mart%C3%ADnez-92205b336/"><img src="https://img.shields.io/badge/-Mateo Martinez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mateo8mh@gmail.com"><img src="https://img.shields.io/badge/-Mateo Martinez-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
