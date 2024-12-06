@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on my way to learning more about artificial intelligence and python.\
 ✍️ &nbsp;In my free time, I dedicate myself to learning music and playing soccer.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at mateo8mh@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at mateo8mh@gmail.com! I'll try to respond as soon as I can.
 
 
 
