@@ -18,8 +18,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java,nodejs,nestjs,nextjs,react,angular,spring,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,react,angular,spring,docker,aws)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
