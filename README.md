@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java,nodejs,nestjs,nextjs,react,angular,spring,sql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java,nodejs,nestjs,nextjs,react,angular,spring,docker,aws)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
